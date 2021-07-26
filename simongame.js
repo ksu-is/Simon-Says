@@ -1,4 +1,4 @@
-let order = [];
+let order = ];
 let playerOrder = [];
 let flash;
 let turn;
@@ -230,5 +230,5 @@ function winGame() {
   flashColor();
   turnCounter.innerHTML = "WIN!";
   on = false;
-  win = true;
+  win = true
 }
