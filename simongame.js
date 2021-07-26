@@ -1,4 +1,4 @@
-let order = ];
+let order = {];
 let playerOrder = [];
 let flash;
 let turn;
